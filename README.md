@@ -4,16 +4,16 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allancssio1&show_icons=true&count_private=true&hide_border=true&title_color=67159C&icon_color=67159C&text_color=c9d1d9&bg_color=0d1117" alt="Allan Freitas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allancssio1&layout=compact&hide_border=true&title_color=67159C&text_color=67159C&bg_color=0d1117" />
-</div>
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=allancssio1&show_icons=true&count_private=true&hide_border=true&title_color=67159C&icon_color=67159C&text_color=c9d1d9&bg_color=0d1117" alt="Allan Freitas github stats" />  -->
+<!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allancssio1&layout=compact&hide_border=true&title_color=67159C&text_color=67159C&bg_color=0d1117" />
+</div> -->
 
 <p></p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=allancssio1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+<p></p>
 <div align="center">  
 <a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=instagram&logoColor=white"</a>
 </div>
