@@ -41,8 +41,8 @@
 
  <p></p>
 <div align="center">  
-<a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=blue"</a>
-<a href="allan.cassio1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail.js-red?style=for-the-badge&logo=react&labelColor=0D1117"</a>
+<a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0D1117"</a>
+<a href="allan.cassio1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email.js-red?style=for-the-badge&logo=gmail&labelColor=0D1117"</a>
 <a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp.js-267D39?style=for-the-badge&logo=whatsapp&labelColor=0D1117"</a>
 </div>
   
