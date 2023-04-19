@@ -35,18 +35,16 @@
 ### Studying in this moment
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
- <p></p>
+ 
+### Find me
+<p></p>
 <div align="center">
- 
-### Contacts
- 
 <a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0D1117"</a>
 <a href="allan.cassio1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email.js-red?style=for-the-badge&logo=gmail&labelColor=0D1117"</a>
 <a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp.js-267D39?style=for-the-badge&logo=whatsapp&labelColor=0D1117"</a>
 </div>
   
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{allancssio1}/count.svg" /></p> 
 <br></div>
