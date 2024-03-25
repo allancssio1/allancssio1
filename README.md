@@ -1,4 +1,4 @@
-# Alexia Kattah
+# Allan Freitas
 
 ## Olá pessoal 👋
 👩🏻‍💻  Meu nome é Allan Cássio, sou Desenvolvedor Back-end, com conhecimento no mundo Javascript e Typescript. Sou desenvolvedora de software desde 2021, onde a última experiênica com como desenvolvedor back-end júnior.
