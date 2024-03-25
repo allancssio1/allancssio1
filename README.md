@@ -1,53 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67159C&height=120&section=header"/>
+# Alexia Kattah
 
+## Olá pessoal 👋
+👩🏻‍💻  Meu nome é Allan Cássio, sou Desenvolvedor Back-end, com conhecimento no mundo Javascript e Typescript. Sou desenvolvedora de software desde 2021, onde a última experiênica com como desenvolvedor back-end júnior.
 
-<div align="center">
+🎯 Meu objetivo é atuar um dia como desenvolvedor sênior onde que possa construir projetos relevantes para empresas, impactando milhares de usuário e elevando seus negócios ao máximo. 
 
-# Hello, my name is Allan Freitas.
+Seja muito bem vindo ao meu Github!
+
+## Hey there 👋
+My name is Allan Cássio, I am a Back-end Developer, with knowledge in the Javascript and Typescript world. I have been a software developer since 2021, the last experience as a junior back-end developer.
+
+🎯 My goal is to one day work as a senior developer where I can build relevant projects for companies, impacting thousands of users and taking their business to the maximum.
+
+Welcome to my Github!
+
+## MY SKILLS
  
- <p></p>
- 
-### I'm back-end developer
-<p></p>
- 
-### welcome to my portfolio.
+<div>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-### Main skills
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![PrismaIO](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
 
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
-
-### Other Knowledge
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-
- 
-### Find me
-<p></p>
-<div align="center">
-<a href="https://www.linkedin.com/in/allan-freitas-201425151/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0D1117"</a>
-<a href="mailto:allan.cassio1@gmail.com?subject=Queremos te contratar." target="_blank"><img src="https://img.shields.io/badge/-Email.js-red?style=for-the-badge&logo=gmail&labelColor=0D1117"</a>
-<a href="https://wa.me/558589353295" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp.js-267D39?style=for-the-badge&logo=whatsapp&labelColor=0D1117"</a>
 </div>
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{allancssio1}/count.svg" /></p> 
-<br></div>
-  
+<br />
+<br />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=&color=67159C&height=120&section=footer"/>
+<div>
+
+ 
+ <a href="allan.cassio1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/allan-freitas-201425151/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
+</div>
