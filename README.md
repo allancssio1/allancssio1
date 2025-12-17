@@ -1,16 +1,16 @@
 # Allan Freitas
 
 ## Olá pessoal 👋
-👩🏻‍💻  Meu nome é Allan Cássio, sou Desenvolvedor Back-end, com conhecimento no mundo Javascript e Typescript. Sou desenvolvedora de software desde 2021, onde a última experiênica com como desenvolvedor back-end júnior.
+👩🏻‍💻  Meu nome é Allan Cássio, sou Desenvolvedor Full-stack, com conhecimento no ecosistema Javascript, Typescript, Python e Golang. Sou desenvolvedor de software desde 2021, com sólida experiencia no desnvolcimento de API's e sistemas web.
 
-🎯 Meu objetivo é atuar um dia como desenvolvedor sênior onde que possa construir projetos relevantes para empresas, impactando milhares de usuário e elevando seus negócios ao máximo. 
+🎯 Meu objetivo é atuar um dia é atua como tech-lead onde que possa construir projetos relevantes para empresa e ajudar quem está precisando com uma direção clara e objetiva para evoluir em suas carreiras. 
 
 Seja muito bem vindo ao meu Github!
 
 ## Hey there 👋
-My name is Allan Cássio, I am a Back-end Developer, with knowledge in the Javascript and Typescript world. I have been a software developer since 2021, the last experience as a junior back-end developer.
+👩🏻‍💻  My name is Allan Cássio, I am a Full-stack Developer with knowledge in the Javascript, Typescript, Python, and Golang ecosystems. I have been a software developer since 2021, with solid experience in developing APIs and web systems.
 
-🎯 My goal is to one day work as a senior developer where I can build relevant projects for companies, impacting thousands of users and taking their business to the maximum.
+🎯 My goal is to one day work as a tech lead where I can build relevant projects for the company and help those in need with clear and objective direction to advance in their careers.
 
 Welcome to my Github!
 
@@ -21,6 +21,9 @@ Welcome to my Github!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
